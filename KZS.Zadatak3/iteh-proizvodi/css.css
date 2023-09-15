@@ -1,0 +1,23 @@
+#proizvoditabela {
+    width: 80%;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.form-el {
+    width: 20%;
+    margin-top: 1%;
+    margin-left: 40%;
+    margin-bottom: 0.5%;
+}
+
+#update {
+    width: 20%;
+    margin-left: 40%;
+
+}
+
+#nazivproizvodasearch {
+    margin-left: 10%;
+    margin-top: 3%;
+}
